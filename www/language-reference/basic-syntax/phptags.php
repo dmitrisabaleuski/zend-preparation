@@ -1,9 +1,9 @@
 <?php
-    echo "Common tags<br>";
+    echo "Hello world<br>";
 ?>
 
 <?
-    echo "Short tags";
+    echo "Последнее выражение";
 ?>
 
 <p>Not available anymore starting from PHP7.0:</p>

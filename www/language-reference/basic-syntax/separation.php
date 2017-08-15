@@ -1,7 +1,9 @@
+<p><b>Разделение инструкций </b></p>
 <?php
-/**
- * Created by PhpStorm.
- * User: aleksandrnovikov
- * Date: 10.08.17
- * Time: 12:57
- */
+echo 'Это тест' ;
+?><br>
+<?php
+echo 'Это тоже тест' ;
+?><br>
+<?php echo 'Мы опустили последний закрывающий тег';
+
